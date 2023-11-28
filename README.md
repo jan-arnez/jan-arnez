@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnezjan8@gmail.com)](mailto:arnezjan8@gmail.com)
 
 ### About me... briefly 🧑💻
-I'm a **Faculty Of Economics student🎓 [@Ekonomska fakulteta Univerze v Ljubljani](http://www.ef.uni-lj.si/)**. I am a **passionate self-taught developer**, enchanted by the boundless potential programming offers. It's thrilling to craft remarkable creations from scratch, with minimal resources yet unlimited possibilities. <br/><br/>
+I'm a **[Faculty Of Economics](http://www.ef.uni-lj.si/) student🎓**. I am a **passionate self-taught developer**, enchanted by the boundless potential programming offers. It's thrilling to craft remarkable creations from scratch, with minimal resources yet unlimited possibilities. <br/><br/>
 
 ## Computer Science degree 📚
 
