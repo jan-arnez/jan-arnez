@@ -32,8 +32,12 @@ I learn from quality sources:
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgAuAwfMMDkwZScsLkBAeZ4GjyfB7GtIzcA&usqp=CAU" alt="Express.js"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  alt="HTML"></code>
+<code><img height="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB"></code>
+<code><img height="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MySQL"></code>
+<code><img height="30" src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostGre"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4" alt="CSS"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"  alt="Bootstrap"></code>
 <code><img height="30" src="https://github.com/jan-arnez/jan-arnez/assets/145779483/110f890a-cdba-49ee-b569-52d6a15e407b"  alt="Tailwind"></code>
