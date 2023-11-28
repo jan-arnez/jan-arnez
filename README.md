@@ -1,4 +1,4 @@
-![image](https://github.com/jan-arnez/jan-arnez/assets/145779483/a33631d2-261d-41a6-a152-ea0c30abe788)<h1>Hey!, I am <a href="https://github.com/janarnez">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Hey!, I am <a href="https://github.com/janarnez">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
