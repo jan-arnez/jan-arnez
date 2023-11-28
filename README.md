@@ -44,5 +44,5 @@ I learn from quality sources:
 <code><img height="30" src="https://github.com/jan-arnez/jan-arnez/assets/145779483/110f890a-cdba-49ee-b569-52d6a15e407b"  alt="Tailwind"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="GIT"></code>
 
-<br>
+<br />
 **Why so low contributions?** Not my main account and most of the stuff I store locally.
