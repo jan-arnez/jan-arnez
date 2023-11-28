@@ -1,5 +1,5 @@
 
-<code><img style="width: 100%; height: 300px;" src="https://www.softinway.com/wp-content/uploads/2019/01/LiquidSeminar.jpg" alt=""/> </code>
+<img style="width: 100%; height: 300px;" src="https://www.softinway.com/wp-content/uploads/2019/01/LiquidSeminar.jpg" alt=""/>
 <h1>
   Hey!, I am <a href="https://github.com/janarnez">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 </h1>
