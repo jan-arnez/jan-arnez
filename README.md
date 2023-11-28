@@ -2,7 +2,7 @@
   Hey!, I am <a href="https://github.com/janarnez">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 </h1>
 
-### 📬 Find me at
+### Find me at 📬
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/janarnez/)](https://github.com/janarnez/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnezjan8@gmail.com)](mailto:arnezjan8@gmail.com)
@@ -11,15 +11,6 @@
 I'm a **Faculty Of Economics student🎓 [@Ekonomska fakulteta Univerze v Ljubljani](http://www.ef.uni-lj.si/)**. I am a **passionate self-taught developer**, enchanted by the boundless potential programming offers. It's thrilling to craft remarkable creations from scratch, with minimal resources yet unlimited possibilities. <br/><br/>
 
 ## Computer Science degree 📚
-
-**Why did I not pursue a CS degree?** I pursued self-education in development due to my fascination with the freedom and creativity it allows, without the constraints of a formal degree. ⚡
-
-I learn from quality sources:
-  - **[Harvard](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)**
-  - **[FreeCodeCamp](https://www.freecodecamp.org/)**
-  - **[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11739048#overview)**
-
-##  📚
 
 **Why did I not pursue a CS degree?** I pursued self-education in development due to my fascination with the freedom and creativity it allows, without the constraints of a formal degree. ⚡
 
