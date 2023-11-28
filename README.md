@@ -33,10 +33,10 @@ I learn from quality sources:
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="Express.js"></code>
 <code><img height="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB"></code>
-<code><img height="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MySQL"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="MySQL"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostGre"></code>
 <code><img height="30" src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React"></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostGre"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4" alt="CSS"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"  alt="Bootstrap"></code>
