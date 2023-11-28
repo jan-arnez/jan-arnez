@@ -32,7 +32,7 @@ I learn from quality sources:
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4" alt="CSS"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"  alt="Bootstrap"></code>
 <code><img height="30" src="https://github.com/jan-arnez/jan-arnez/assets/145779483/110f890a-cdba-49ee-b569-52d6a15e407b"  alt="Tailwind"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="GIT"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT"></code>
 
 <br />
 
