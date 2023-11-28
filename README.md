@@ -10,10 +10,6 @@
 ### About me... briefly 🧑💻
 I'm a **Faculty Of Economics student🎓 [@Ekonomska fakulteta Univerze v Ljubljani](http://www.ef.uni-lj.si/)**. I am a **passionate self-taught developer**, enchanted by the boundless potential programming offers. It's thrilling to craft remarkable creations from scratch, with minimal resources yet unlimited possibilities. <br/><br/>
 
-
-
-
-
 ## Computer Science degree 📚
 
 **Why did I not pursue a CS degree?** I pursued self-education in development due to my fascination with the freedom and creativity it allows, without the constraints of a formal degree. ⚡
@@ -32,7 +28,6 @@ I learn from quality sources:
   - **[FreeCodeCamp](https://www.freecodecamp.org/)**
   - **[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11739048#overview)**
   
-
 ### Tech I use ⚙️
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"></code>
@@ -45,4 +40,5 @@ I learn from quality sources:
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="GIT"></code>
 
 <br />
+
 **Why so low contributions?** Not my main account and most of the stuff I store locally.
