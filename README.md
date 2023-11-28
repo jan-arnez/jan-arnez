@@ -1,3 +1,9 @@
+<style>
+	table.css3 {
+		background: white;
+	}
+</style>
+
 <h1>
   Hey!, I am <a href="https://github.com/janarnez">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 </h1>
@@ -22,7 +28,6 @@ I learn from quality sources:
 ### Tech I use ⚙️
 <div align="center">
 	<table>
-		[Image](https://placehold.co/600x400/white/white)
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></td>
