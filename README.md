@@ -41,4 +41,4 @@ I learn from quality sources:
 
 <br />
 
-**Why so low contributions?** Not my main account and most of the stuff I store locally.
+Note: This account is not my main but I am actively updating it and uploading new projects!
