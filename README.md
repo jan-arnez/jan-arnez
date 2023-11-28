@@ -29,7 +29,7 @@ I learn from quality sources:
   - **[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11739048#overview)**
   
 ### Tech I use ⚙️
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" name="javascript"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgAuAwfMMDkwZScsLkBAeZ4GjyfB7GtIzcA&usqp=CAU" alt="Express.js"></code>
 <code><img height="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB"></code>
