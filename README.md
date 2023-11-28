@@ -45,4 +45,4 @@ I learn from quality sources:
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="GIT"></code>
 
 
-**Why so low contributions? Not my main account and most of the stuff I store locally.**
+**Why so low contributions?** Not my main account and most of the stuff I store locally.
