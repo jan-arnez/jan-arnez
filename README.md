@@ -13,6 +13,7 @@ I'm currently pursuing my studies at the  **[Faculty Of Economics](http://www.ef
 ## Computer Science degree 📚
 
 **Why did I not pursue a CS degree?** 
+<br>
 I was drawn to self-education in development for the unique freedom and creativity it offers, unbound by the structure of a traditional degree program. This approach allowed me to explore areas of interest deeply and at my own pace. While I chose a non-traditional path, I ensured that my learning covered all the fundamental aspects of a formal Computer Science education.⚡
 
 My Learning Resources:
