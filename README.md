@@ -20,9 +20,10 @@ I was drawn to self-education in development for the unique freedom and creativi
   - **[Harvard](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)**: A comprehensive introduction to computer science.
   - **[FreeCodeCamp](https://www.freecodecamp.org/)**: Practical coding lessons.
   - **[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11739048#overview)**: Helped me deepen my understanding of Node.js and backend development.
+
+### Tech I use ⚙️
   
 <div align="center">
-### Tech I use ⚙️
 	<table>
 		<tr>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/> </td>
