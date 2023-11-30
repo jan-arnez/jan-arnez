@@ -2,15 +2,16 @@
   Hey!, I am <a href="https://github.com/janarnez">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 </h1>
 
-### Find me at 📬
+<h3>Find me at 📬</h3>
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/janarnez/)](https://github.com/janarnez/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnezjan8@gmail.com)](mailto:arnezjan8@gmail.com)
 
-## About me... briefly 🧑💻
+<h2>About me... briefly 🧑💻</h2>
 I'm currently pursuing my studies at the  [Faculty Of Economics](http://www.ef.uni-lj.si/)🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
 
-## Computer Science degree 📚
+<h2>Computer Science degree 📚</h2>
+
 **Why did I not pursue a CS degree?** 
 <br>
 I was drawn to self-education in development for the unique freedom and creativity it offers, unbound by the structure of a traditional degree program. This approach allowed me to explore areas of interest deeply and at my own pace. While I chose a non-traditional path, I ensured that my learning covered all the fundamental aspects of a formal Computer Science education.⚡
@@ -44,6 +45,6 @@ I was drawn to self-education in development for the unique freedom and creativi
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/></td>
 		</tr>
-		<sup><sub>Tip: Hover reveals image title</sub></sup>
 	</table>
+		<sup><sub>Tip: Hover reveals image title</sub></sup>
 </div>
