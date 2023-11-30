@@ -7,11 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnezjan8@gmail.com)](mailto:arnezjan8@gmail.com)
 
-### About me... briefly 🧑💻
+## About me... briefly 🧑💻
 I'm currently pursuing my studies at the  [Faculty Of Economics](http://www.ef.uni-lj.si/)🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
 
 ## Computer Science degree 📚
-
 **Why did I not pursue a CS degree?** 
 <br>
 I was drawn to self-education in development for the unique freedom and creativity it offers, unbound by the structure of a traditional degree program. This approach allowed me to explore areas of interest deeply and at my own pace. While I chose a non-traditional path, I ensured that my learning covered all the fundamental aspects of a formal Computer Science education.⚡
@@ -21,7 +20,7 @@ I was drawn to self-education in development for the unique freedom and creativi
   - **[FreeCodeCamp](https://www.freecodecamp.org/)**: Practical coding lessons.
   - **[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11739048#overview)**: Helped me deepen my understanding of Node.js and backend development.
 
-### Tech I use ⚙️
+## Tech I use ⚙️
   
 <div align="center">
 	<table>
