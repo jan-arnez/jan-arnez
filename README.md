@@ -20,7 +20,7 @@ I was drawn to self-education in development for the unique freedom and creativi
   - **[FreeCodeCamp](https://www.freecodecamp.org/)**: Practical coding lessons.
   - **[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11739048#overview)**: Helped me deepen my understanding of Node.js and backend development.
 
-## Tech I use ⚙️
+<h2>Tech I use ⚙️</h2> 
   
 <div align="center">
 	<table>
