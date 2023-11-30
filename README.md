@@ -16,7 +16,7 @@ I'm currently pursuing my studies at the  **[Faculty Of Economics](http://www.ef
 <br>
 I was drawn to self-education in development for the unique freedom and creativity it offers, unbound by the structure of a traditional degree program. This approach allowed me to explore areas of interest deeply and at my own pace. While I chose a non-traditional path, I ensured that my learning covered all the fundamental aspects of a formal Computer Science education.⚡
 
-My Learning Resources:
+**My Learning Resources:**
   - **[Harvard](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)**: A comprehensive introduction to computer science.
   - **[FreeCodeCamp](https://www.freecodecamp.org/)**: Practical coding lessons.
   - **[Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11739048#overview)**: Helped me deepen my understanding of Node.js and backend development.
