@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnezjan8@gmail.com)](mailto:arnezjan8@gmail.com)
 
 ### About me... briefly 🧑💻
-I'm currently pursuing my studies at the  **[Faculty Of Economics](http://www.ef.uni-lj.si/)**🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
+I'm currently pursuing my studies at the  [Faculty Of Economics](http://www.ef.uni-lj.si/)🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
 
 ## Computer Science degree 📚
 
