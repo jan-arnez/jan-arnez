@@ -45,4 +45,3 @@ I learn from quality sources:
 	</table>
 	<sup><sub>Tip: Hover reveals image title</sub></sup>
 </div>
-
