@@ -10,13 +10,15 @@
 
 <h2>About me... briefly 🧑💻</h2>
 
-I'm currently pursuing my studies at the **<a href="http://www.ef.uni-lj.si/">Faculty Of Economics</a>**🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
+<p> I'm currently pursuing my studies at the **<a href="http://www.ef.uni-lj.si/">Faculty Of Economics</a>**🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. </p>
+
+<br/>
 
 <h2>Computer Science degree 📚</h2>
 
 **Why did I not pursue a CS degree?** 
-<br>
-I was drawn to self-education in development for the unique freedom and creativity it offers, unbound by the structure of a traditional degree program. This approach allowed me to explore areas of interest deeply and at my own pace. While I chose a non-traditional path, I ensured that my learning covered all the fundamental aspects of a formal Computer Science education.⚡
+
+<p> I was drawn to self-education in development for the unique freedom and creativity it offers, unbound by the structure of a traditional degree program. This approach allowed me to explore areas of interest deeply and at my own pace. While I chose a non-traditional path, I ensured that my learning covered all the fundamental aspects of a formal Computer Science education.⚡ </p>
 
 **My Learning Resources:**
   - **[Harvard](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)**: A comprehensive introduction to computer science.
