@@ -12,8 +12,6 @@
 
 <p> I'm currently pursuing my studies at the **<a href="http://www.ef.uni-lj.si/">Faculty Of Economics</a>**🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. </p>
 
-<br/>
-
 <h2>Computer Science degree 📚</h2>
 
 **Why did I not pursue a CS degree?** 
