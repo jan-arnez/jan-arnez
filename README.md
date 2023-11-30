@@ -44,6 +44,6 @@ I was drawn to self-education in development for the unique freedom and creativi
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/></td>
 		</tr>
+		<sup><sub>Tip: Hover reveals image title</sub></sup>
 	</table>
-	<sup><sub>Tip: Hover reveals image title</sub></sup>
 </div>
