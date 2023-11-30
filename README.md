@@ -10,7 +10,7 @@
 
 <h2>About me... briefly 🧑💻</h2>
 
-I'm currently pursuing my studies at the  [Faculty Of Economics](http://www.ef.uni-lj.si/)🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
+I'm currently pursuing my studies at the  <a href="http://www.ef.uni-lj.si/">Faculty Of Economics]</a>🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
 
 <h2>Computer Science degree 📚</h2>
 
