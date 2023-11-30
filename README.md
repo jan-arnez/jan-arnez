@@ -46,6 +46,3 @@ I learn from quality sources:
 	<sup><sub>Tip: Hover reveals image title</sub></sup>
 </div>
 
-<br />
-
-Note: This account is not my main but I am actively updating it and uploading new projects!
