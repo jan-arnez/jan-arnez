@@ -1,5 +1,5 @@
 <h1>
-  Hey!, I am <a href="/">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
+  Hey! I am <a href="https://github.com/jan-arnez">Jan Arnež</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 </h1>
 
 <h3>Find me at 📬</h3>
