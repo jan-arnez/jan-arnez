@@ -3,11 +3,13 @@
 </h1>
 
 <h3>Find me at 📬</h3>
+
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/janarnez/)](https://github.com/janarnez/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnezjan8@gmail.com)](mailto:arnezjan8@gmail.com)
 
 <h2>About me... briefly 🧑💻</h2>
+
 I'm currently pursuing my studies at the  [Faculty Of Economics](http://www.ef.uni-lj.si/)🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. <br/><br/>
 
 <h2>Computer Science degree 📚</h2>
