@@ -12,6 +12,16 @@
 
  I'm currently pursuing my studies at the [**Faculty Of Economics**](http://www.ef.uni-lj.si)🎓. Alongside my formal education, I am deeply passionate about programming, a skill I've developed through self-teaching. I am captivated by the immense potential of programming — it's a field where one can create impactful solutions from minimal resources, exploring a world of limitless possibilities. 
 
+ <h2>What do I do in free time (if not programming)</h2>
+ <ul>
+	 <li>Play Games (mostly League of Legends)</li>🎮
+	 <li>Read books (self-improvement)</li>📕
+	 <li>Watch Youtube (Fireship, Hyperplexed, AIDEA podcast)</li>🎬
+	 <li>Functional physical training</li>🏋️‍♂️
+	 <li>Ride motorbike</li>🏍
+	 <li>Design (UI & UX)</li>✨
+ </ul>
+
 <h2>Computer Science degree 📚</h2>
 
 **Why did I not pursue a CS degree?** 
