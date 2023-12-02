@@ -14,13 +14,13 @@
 
  <h2>What do I do in free time (if not programming)</h2>
  <ul>
+	 <li>Go out with friends👨‍👦‍👦</li>
+	 <li>Ride motorbike🏍</li>
+	 <li>Design (UI & UX)✨</li>
+	 <li>Functional physical training🏋️‍♂️</li>
 	 <li>Play Video Games with my girlfriend (mostly League of Legends)🎮</li>
 	 <li>Read books (self-improvement)📕</li>
 	 <li>Watch Youtube (Fireship, Hyperplexed, AIDEA podcast)🎬</li>
-	 <li>Functional physical training🏋️‍♂️</li>
-	 <li>Ride motorbike🏍</li>
-	 <li>Design (UI & UX)✨</li>
-	 <li>Go out with friends🙍‍♂️🙍‍♂️🙍‍♂️🙍‍♂️</li>
  </ul>
 
 <h2>Computer Science degree 📚</h2>
