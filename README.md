@@ -13,7 +13,6 @@
 <p align="left">
 📚 I'm currently learning: Advanced AI implementation with LangChain and FastAPI<br>
 😎 Obsessed with optimizations and structure<br>
-🎯 Goals: Developing seamless, high-performance web applications from scratch<br>
 🎲 Fun fact: I won 1st place at the Triglav Hackathon 2024!
 </p>
 
