@@ -1,8 +1,4 @@
-# Hey 👋 What's up?
-
-My name is Jan Arnež and I'm a **Full-stack Developer** from Slovenia.
-
----
+# Jan Arnež - Fullstack web developer
 
 ## 📚 About me
 
