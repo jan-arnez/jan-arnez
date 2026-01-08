@@ -73,4 +73,4 @@ My own SaaS attempt. A start-up from Kranj integrated my scheduler component and
 
 ---
 
-*+ 118 other projects sitting on my desktop waiting to be pushed to GitHub (Duolingo clone, Notion Clone, Chrome Extensions, Mobile Apps, productivity scripts, Scrapers, ...)*
+*+ 118 other projects sitting on my desktop waiting to be pushed to GitHub (Duolingo clone, Notion Clone, Chrome Extensions, Mobile Apps, productivity scripts, Scrapers, Desktop Apps, Golang CLI tool, Typescript CLI tools, ...)*
