@@ -34,8 +34,6 @@
 ### [Dragonhack](https://dragonhack-blue.vercel.app/)
 - Updated look of Dragonhack website with same essence as previous design
 
-[Website Link](https://dragonhack-blue.vercel.app/)
-
 ---
 
 ### [Vitstaff](https://vitstaff.com/)
