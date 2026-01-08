@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jan Arnež and I'm a <b>Design Engineer & Full-stack Developer</b> from Slovenia. I bridge the gap between complex backend logic and pixel-perfect UI.</p>
+<p align="left">My name is Jan Arnež and I'm a <b>Full-stack Developer</b> from Slovenia. I like making and optimizing stuff.</p>
 
 ###
 
