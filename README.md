@@ -43,12 +43,16 @@ My own SaaS attempt. A start-up from Kranj integrated my scheduler component and
 
 ---
 
-### ADC systems (adchost)
+### ADC systems
 - Built frontend modules for reservations calendar, accounting, and housekeeping
 - Optimized folder structure for scalability (flat -> module based)
 - Built new landing page and revamped platform branding
 
-[Old Website](https://www.adcsmarthost.com/) vs [New Website](https://adchost.vercel.app/en)
+##### ADCHOST
+[Old Website](https://web.archive.org/web/20260121152526/https://www.adcsmarthost.com/) vs [New Website](https://www.adcsmarthost.com/)
+
+##### ADCHOME
+[Old Website](https://web.archive.org/web/20260306055033/https://www.adcsmarthome.com/) vs [New Website](https://www.adcsmarthome.com/) - Currently maintained by ADC
 
 ---
 
