@@ -2,9 +2,9 @@
 
 ## 📚 About me
 
-- 📚 **Currently learning:** Advanced AI implementation with LangChain and FastAPI
-- 😎 **Obsessed** with optimizations and structure
-- 🎲 **Fun fact:** I won 1st place at the Triglav Hackathon 2024!
+- 📚 **Interested in** Typescript (Vite React, Hono), Python (Langchain, Llamaindex, Fast API)
+- 😎 **Eye for details** - or so I was told
+- 🎲 **Fun fact:** I love hackathons and I won 3 out of 4 I attended
 
 ---
 
@@ -55,7 +55,7 @@ My own SaaS attempt. A start-up from Kranj integrated my scheduler component and
 ### MIAtomotive (Mark Ivanov - Formula driver)
 - Luxury e-commerce with 3D asset animation
 
-*Coming soon (February 2026)*
+*Deprecated due to client*
 
 ---
 
@@ -63,8 +63,22 @@ My own SaaS attempt. A start-up from Kranj integrated my scheduler component and
 - **Cofounder**
 - RAG system for construction designers (advanced chunking strategy and custom tools)
 
-*Coming soon (February 2026)*
+*Deprecated because of complex requirements (training own model on hundreds of construction plans*
 
 ---
 
-*+ 118 other projects sitting on my desktop waiting to be pushed to GitHub (Duolingo clone, Notion Clone, Chrome Extensions, Mobile Apps, productivity scripts, Scrapers, Desktop Apps, Golang CLI tool, Typescript CLI tools, ...)*
+### Flowgen
+- **Cofounder**
+- Autonomous system for generating user documentation
+
+[Flowgen repository](https://github.com/dragonhack-flowgen/flowgen)
+
+---
+
+### Vitstaff
+- **Cofounder**
+- School project (currently in MVP phase) - Won 1st place on starup-weekend EF hackathon
+
+[Vitstaff landing page (currently dummy assets)](https://stage.vitstaff.com)
+
+---
