@@ -39,7 +39,7 @@
 ### [Vitstaff](https://vitstaff.com/)
 My own SaaS attempt. A start-up from Kranj integrated my scheduler component and invited me to join the team.
 
-[Scheduler Component Showcase](https://scheduler.vitstaff.com/)
+[Scheduler Component Showcase](https://scheduler.vitstaff.com/) - MVP (can have buggs)
 
 ---
 
@@ -81,6 +81,7 @@ My own SaaS attempt. A start-up from Kranj integrated my scheduler component and
 
 ### Vitstaff
 - **Cofounder**
+- Reuse of my initial idea (seen above)
 - School project (currently in MVP phase) - Won 1st place on starup-weekend EF hackathon
 
 [Vitstaff landing page (currently dummy assets)](https://stage.vitstaff.com)
