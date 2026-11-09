@@ -25,23 +25,6 @@
 
 ## 🚀 Recent Projects
 
-### [Pronik](https://www.figma.com/proto/3b1wAjrewaCC21xATkIoBS/Untitled?node-id=0-1&t=TT1A0tO7g5fd8jlG-1)
-- Simple multilingual one-pager for freight company
-- Work in progress (waiting for assets)
-
----
-
-### [Dragonhack](https://dragonhack-blue.vercel.app/)
-- Updated look of Dragonhack website with same essence as previous design
-
----
-
-### [Vitstaff](https://vitstaff.com/)
-My own SaaS attempt. A start-up from Kranj integrated my scheduler component and invited me to join the team.
-
-[Scheduler Component Showcase](https://scheduler.vitstaff.com/) - MVP (can have buggs)
-
----
 
 ### ADC systems
 - Built frontend modules for reservations calendar, accounting, and housekeeping
@@ -54,36 +37,8 @@ My own SaaS attempt. A start-up from Kranj integrated my scheduler component and
 ##### ADCHOME
 [Old Website](https://web.archive.org/web/20260306055033/https://www.adcsmarthome.com/) vs [New Website](https://www.adcsmarthome.com/) - Currently maintained by ADC
 
----
-
-### MIAtomotive (Mark Ivanov - Formula driver)
-- Luxury e-commerce with 3D asset animation
-
-*Deprecated due to client*
-
----
-
-### Engineer AI
-- **Cofounder**
-- RAG system for construction designers (advanced chunking strategy and custom tools)
-
-*Deprecated because of complex requirements (training own model on hundreds of construction plans*
-
----
-
 ### Flowgen
 - **Cofounder**
 - Autonomous system for generating user documentation
 
 [Flowgen repository](https://github.com/dragonhack-flowgen/flowgen)
-
----
-
-### Vitstaff
-- **Cofounder**
-- Reuse of my initial idea (seen above)
-- School project (currently in MVP phase) - Won 1st place on starup-weekend EF hackathon
-
-[Vitstaff landing page (currently dummy assets)](https://stage.vitstaff.com)
-
----
