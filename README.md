@@ -2,22 +2,17 @@
 
 ## 📚 About me
 
-- 📚 **Interested in** Typescript (Vite React, Hono), Python (Langchain, Llamaindex, Fast API)
-- 😎 **Eye for details** - or so I was told
-- 🎲 **Fun fact:** I love hackathons and I won 3 out of 4 I attended
+I've been coding for 9 years, mostly with Python & TypeScript (React/Hono). I like experimenting (Kotlin, Go, C, Rust, ...), understanding how things work, and building products end to end.
 
 ---
 
-## 🛠 I code with
+## 🛠 I mostly code with
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </p>
 
@@ -29,7 +24,7 @@
 ### ADC systems
 - Built frontend modules for reservations calendar, accounting, and housekeeping
 - Optimized folder structure for scalability (flat -> module based)
-- Built new landing page and revamped platform branding
+- Built new landing page and revamped platform
 
 ##### ADCHOST
 [Old Website](https://web.archive.org/web/20260121152526/https://www.adcsmarthost.com/) vs [New Website](https://www.adcsmarthost.com/)
