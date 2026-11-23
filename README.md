@@ -18,22 +18,4 @@ I've been coding for 9 years, mostly with Python & TypeScript (React/Hono). I li
 
 ---
 
-## 🚀 Recent Projects
-
-
-### ADC systems
-- Built frontend modules for reservations calendar, accounting, and housekeeping
-- Optimized folder structure for scalability (flat -> module based)
-- Built new landing page and revamped platform
-
-##### ADCHOST
-[Old Website](https://web.archive.org/web/20260121152526/https://www.adcsmarthost.com/) vs [New Website](https://www.adcsmarthost.com/)
-
-##### ADCHOME
-[Old Website](https://web.archive.org/web/20260306055033/https://www.adcsmarthome.com/) vs [New Website](https://www.adcsmarthome.com/) - Currently maintained by ADC
-
-### Flowgen (ideator)
-- Autonomous system for generating user documentation that won us 2 awards at Dragonhack 2026
-- Idea later turned into startup [Flowgen](https://flowgen.dev)
-
-[Flowgen repository](https://github.com/dragonhack-flowgen/flowgen)
+Check out my [portfolio](https://jan-arnez.github.io)
